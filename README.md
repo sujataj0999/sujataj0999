@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate **Web Developer** with a strong foundation in **HTML, CSS, JavaScript,PHP,Node js, and React.js**.  <br>I enjoy building **responsive, clean, and user-friendly web applications** that deliver great user experiences.<br><br>As a fresher, I am highly motivated to learn new technologies and continuously improve my skills.  <br>I love converting design ideas into functional interfaces and writing clean, maintainable code.<br><br>🎯 Currently seeking **Web Developer** opportunities where I can contribute, learn, and grow.
+I am a passionate **Web Developer** with a strong foundation in **HTML, CSS, JavaScript,PHP,Node js, and React.js**.  <br>I enjoy building **responsive, clean, and user-friendly web applications** that deliver great user experiences.<br><br>with 1+ years experience in Web developing, I am highly motivated to learn new technologies and continuously improve my skills.  <br>I love converting design ideas into functional interfaces and writing clean, maintainable code.<br><br>🎯 Currently seeking **Web Developer** opportunities where I can contribute, learn, and grow.
 
 
 ## 🌐 Socials:
